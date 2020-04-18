@@ -16,7 +16,7 @@ Objetivo é trabalhar com arrays de início, porém já visando uma mentalidade 
 - Utilização dos métodos HTTP (GET, POST, PUT, DELETE).
 - Trabalhando com vetores (arrays) para armazenar dados, deletar e alterá-los.
 - Trabalhando com objetos JSON dentros dos vetores e nas respostas das requisições.
-- 
+- Detalhe para a parte de teste já pré-configurados pela Rocketseat para dar um norte ao desenvolvedor ao completar esse desafio. 👏
 
 ## Meta
 
